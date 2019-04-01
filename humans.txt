@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tomasz T abc@xml.com @tt
 
 # THANKS
 
